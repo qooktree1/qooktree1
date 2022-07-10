@@ -14,7 +14,6 @@
 # ▎Tech Stacks
 - Need to do : 
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></span>
-
 <span><img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white"/></span>
 
 
