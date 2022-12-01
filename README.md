@@ -26,7 +26,7 @@
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></span>
 
 - Game :
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=unity&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Unity-3776AB?style=flat&logo=unity&logoColor=white"/></span>
 
 - Back-end : 
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
