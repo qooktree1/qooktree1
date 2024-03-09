@@ -1,7 +1,8 @@
 # 😄 Welcome To My GitHub!
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=qooktree1&show_icons=true&count_private=true&line_height=24&theme=dracula)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qooktree1&langs_count=10&layout=compact&theme=dark)](https://github.com/qooktree1/qooktree1)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qooktree)
-</br>
+
 
 # ▎Personal Info
 - Name: Park Jong Min
